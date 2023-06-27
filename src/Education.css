@@ -1,0 +1,43 @@
+.education-page {
+  background-color: #fecb00;
+  padding: 50px 0;
+}
+
+.section-title {
+  text-align: center;
+  color: #004225; /* Green */
+}
+
+.university-info {
+  margin-top: 40px;
+}
+
+.university-logo {
+  width: 50px;
+  height: 15px;
+}
+
+.university-details {
+  margin-left: 20px;
+}
+
+.university-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #004225; /* Green */
+}
+
+.university-city {
+  font-size: 18px;
+  color: #004225; /* Green */
+}
+
+.majors {
+  font-size: 18px;
+  color: #333;
+}
+
+.years {
+  font-size: 18px;
+  color: #333;
+}

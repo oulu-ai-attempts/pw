@@ -1,0 +1,47 @@
+.projects-page {
+  background-color: #678c4a;
+  min-height: 100vh;
+}
+
+.section-title {
+  text-align: left;
+  color: #333;
+  height: 100%;
+  padding: 15px 0px;
+}
+
+.project {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #fecb00;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+
+}
+
+.project-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.position {
+  font-size: 18px;
+  color: #555;
+}
+
+.dates {
+  font-size: 16px;
+  color: #777;
+}
+
+.description {
+  font-size: 16px;
+  color: #333;
+}
+
+.project-jumbotron {
+  background-color: #bff5b4;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
